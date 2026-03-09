@@ -53,4 +53,4 @@ DataBase - Oracle, MySQL/MariaDB, Sqlite3, myBatis, JPA, NoSQL(MongoDB)
 API - Rest API, 소셜 로그인(Naver, Kakao), SMTP(ID/비밀번호 찾기), 간편 결제(Kakao Pay), OAuth, BCrypt, Daum Postcode API
 
 ## 발표 자료
-- farmit_이승민.pptx
+- Farmit_이승민.pptx
